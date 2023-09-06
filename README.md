@@ -66,12 +66,6 @@ Topics of research:
 <br>
 
 <p align="center">
-  <img src= "Images/Media-5.gif" width=350>
-</p>
-
-<br>
-
-<p align="center">
   <img src= "Images/Media-6.gif" height=350>
 </p>
 
