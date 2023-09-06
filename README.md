@@ -49,22 +49,27 @@ Topics of research:
 * Raw Resources
 * Retrieve meta-data from media file
 
+<br>
+
 <p align="center">
   <img src= "Images/Media-1.gif" height=350>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
 <img src= "Images/Media-2.gif" height=350>
 </p>
 
+<br>
 
 <p align="center">
   <img src= "Images/Media-3.gif" height=350>
 </p>
 
+<br>
 
 <p align="center">
   <img src= "Images/Media-5.gif" width=350>
 </p>
 
+<br>
 
 <p align="center">
   <img src= "Images/Media-6.gif" height=350>
