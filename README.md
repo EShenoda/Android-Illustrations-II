@@ -18,7 +18,7 @@
 __Main concept__: Build a Google Play Store mockup.
 
 
-Topics of research:
+__Topics of research:__
 
 * Material Design
 * Nested Layouts
