@@ -61,4 +61,13 @@ Topics of research:
 </p>
 
 <br>
-<br>
+
+##  Copyright
+Private Repo for EmilShenodaDev@gmail.com
+
+All rights reserved: EmilShenoda@FullSailUniversity
+
+## Contact
+Created by [Emil Shenoda](mailto:EmilShenodaDev@gmail.com) - feel free to contact me!
+
+
