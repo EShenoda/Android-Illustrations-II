@@ -73,8 +73,6 @@ Topics of research:
 
 ## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
 
-<br>
-
 ##  Copyright
 Private Repo for EmilShenodaDev@gmail.com
 
@@ -83,4 +81,4 @@ All rights reserved: EmilShenoda@FullSailUniversity
 ## Contact
 Created by [Emil Shenoda](mailto:EmilShenodaDev@gmail.com) - feel free to contact me!
 
-
+[Back to top](#android-illustrations-II)
