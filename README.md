@@ -74,6 +74,8 @@ Topics of research:
 
 ## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
 
+## [Return to Home Page](https://github.com/EShenoda)
+
 ##  Copyright
 Private Repo for EmilShenodaDev@gmail.com
 
