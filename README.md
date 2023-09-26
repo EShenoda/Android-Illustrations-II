@@ -5,6 +5,7 @@
 ## Table of contents
 * [Advanced Layout Design](#advanced-layout-design)
 * [Media Playback](#media-playback)
+* [Quick Links](#quick-links)
 * [Copyright](#copyright)
 * [Contact](#contact)
 
@@ -72,9 +73,13 @@ Topics of research:
 
 <br>
 
-## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
+## Quick Links
 
-## [Return to Home Page](https://github.com/EShenoda)
+### [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
+
+### [Click Here to View iOS Illustrations using SwiftUI](https://github.com/EShenoda/SwiftUI)
+
+### [Return to Home Page](https://github.com/EShenoda)
 
 ##  Copyright
 Private Repo for EmilShenodaDev@gmail.com
